@@ -8,6 +8,7 @@ public class StringProcessor {
         System.out.println(reverseString("hello"));
         System.out.println(countCharacterFrequency("character"));
         System.out.println(reverseString("这是一段文字要被反转"));
+        System.out.println("RimuruYo");
     }
 
     public static Map<Character,Integer> countCharacterFrequency(String str){
